@@ -1,5 +1,3 @@
-![image](https://api.tangbao.ltd/random-img/pc.php)
-
 ## YunDouYue/糖宝
 是一个初中生~  
 - ### :hammer_and_pick: Used Languages
