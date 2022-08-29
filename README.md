@@ -1,4 +1,4 @@
-![image](https://api.bwmc.live/pc/](https://api.tangbao.ltd/random-img/pc.php)
+![image](https://api.tangbao.ltd/random-img/pc.php)
 
 ## YunDouYue/糖宝
 是一个初中生~  
