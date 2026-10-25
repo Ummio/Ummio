@@ -1,5 +1,4 @@
 ## Ummio/糖宝
-是一个高中生~  
 - ### :hammer_and_pick: Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ummio&layout=compact&theme=calm&hide_border=true&langs_count=6&exclude_repo=bspart&card_width=323"/>
 
@@ -8,7 +7,7 @@
 - ### Introduction
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Ummio&show_icons=true&theme=radical" />
 
-- 👀 略懂 HTML/PHP/JAVA
+- 👀 啥也不会
 - 🌱 不过还是比较熟悉开服
 - 📫 我要摸鱼我要摸鱼我要摸鱼啊啊啊啊啊啊啊啊啊啊啊……
-- 🍋 我要上本啊啊啊啊
+- 🍋 我哭了
